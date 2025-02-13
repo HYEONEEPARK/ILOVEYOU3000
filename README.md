@@ -1,6 +1,4 @@
----
-icon: comment-lines
----
+
 
 # やさしい日本語
 
